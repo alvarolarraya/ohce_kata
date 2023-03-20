@@ -6,10 +6,11 @@
         "php": "^8.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^9.3.10",
+        "phpunit/phpunit": "^9.6",
         "phpro/grumphp": "^1.15",
         "phpmd/phpmd": "^2.13",
-        "squizlabs/php_codesniffer": "^3.7"
+        "squizlabs/php_codesniffer": "^3.7",
+        "mockery/mockery": "^1.5"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
